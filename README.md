@@ -2,16 +2,16 @@
 
 <p align='center'>Esta é uma API de catálogo de livros desenvolvida com Django Rest Framework, foi projetada para armazenar informações sobre livros, incluindo nome do livro, nome do autor, ano de lançamento e número da edição.</p>
 
-<a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./img/django_logo.png" width="100" height="100" />
+<a align='center' href="https://www.djangoproject.com/" target="_blank">
+    <img align='center' src="./img/django_logo.png" width="100" height="100" />
 </a>
 
-<a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="./img/django_rest_logo.png" width="100" height="100" />
+<a align='center' href="https://www.django-rest-framework.org/" target="_blank">
+    <img align='center' src="./img/django_rest_logo.png" width="100" height="100" />
 </a>
 
-<a ref="https://www.python.org/" target="_blank">
-    <img src="./img/python_logo.png" width="100" height="100" />
+<a align='center' ref="https://www.python.org/" target="_blank">
+    <img align='center' src="./img/python_logo.png" width="100" height="100" />
 </a>
 
 ## 🔧 Ferramentas
