@@ -1,16 +1,16 @@
-<h1 style="text-align: center"> API de Catálogo de Livros </h1>
+<h1 align='center'> API de Catálogo de Livros </h1>
 
-Esta é uma API de catálogo de livros desenvolvida com Django Rest Framework, foi projetada para armazenar informações sobre livros, incluindo nome do livro, nome do autor, ano de lançamento e número da edição.
+<p align='center'>Esta é uma API de catálogo de livros desenvolvida com Django Rest Framework, foi projetada para armazenar informações sobre livros, incluindo nome do livro, nome do autor, ano de lançamento e número da edição.</p>
 
-<a style="text-align: center" href="https://www.djangoproject.com/" target="_blank">
+<a align='center' href="https://www.djangoproject.com/" target="_blank">
     <img src="./img/django_logo.png" width="200" height="200" />
 </a>
 
-<a style="text-align: center" href="https://www.django-rest-framework.org/" target="_blank">
+<a align='center' href="https://www.django-rest-framework.org/" target="_blank">
     <img src="./img/django_rest_logo.png" width="200" height="200" />
 </a>
 
-<a style="text-align: center" href="https://www.python.org/" target="_blank">
+<a align='center' href="https://www.python.org/" target="_blank">
     <img src="./img/python_logo.png" width="200" height="200" />
 </a>
 
