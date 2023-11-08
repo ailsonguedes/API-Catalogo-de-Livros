@@ -5,3 +5,4 @@ class LivroSerializer(serializers.ModelSerializer):
     class Meta:
         model = Livro
         fields = ('id', 'nome', 'nomeDoAutor', 'anoDeLançamento', 'numEdicao')
+           
