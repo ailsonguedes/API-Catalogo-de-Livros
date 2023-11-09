@@ -36,8 +36,13 @@
   - `id` (campo automático): O identificador único do livro.
   - `nome` (string): Nome do livro.
   - `nomeDoAutor` (string): Nome do autor do livro.
-  - `anoDeLançamento` (inteiro): Ano de lançamento do livro.
+  - `lancamento` (inteiro): Ano de lançamento da primeira versão do livro.
   - `numEdicao` (inteiro): Número da edição do livro.
+  - `tipo` (string): Tipo do livro (livro, mangá, hq...).
+  - `genero` (string): Genero do livro.
+  - `editora` (string): Nome da editora.
+  - `anoEdicao` (inteiro): Ano de lançamento da edição.
+  - `numEdicao` (inteiro): Numero da edição.
 
 ## ⚙️ Uso da API
 
