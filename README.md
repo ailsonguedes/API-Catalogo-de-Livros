@@ -1,7 +1,7 @@
 <h1 align='center'> API de Catálogo de Livros </h1>
 
 <p align='center'>Esta é uma API de catálogo de livros desenvolvida com Django Rest Framework, foi projetada para armazenar informações sobre livros, incluindo nome do livro, nome do autor, ano de lançamento e número da edição.
-Você também poderá buscar os livros por gênero, nome do autor, nome do livro, tipo ou nome da editora</p>
+Você também poderá buscar os livros por gênero, nome do autor, nome do livro, tipo ou nome da editora.</p>
 
 <div align='center'>
   <a href="https://www.djangoproject.com/" target="_blank">
