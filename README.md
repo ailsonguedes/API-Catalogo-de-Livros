@@ -103,9 +103,14 @@ A API estará acessível em http://localhost:8000/.
 
 ```json
 {
+  "id":{id},
   "nome": "Nome do Livro",
   "nomeDoAutor": "Nome do Autor",
-  "anoDeLancamento": 2023,
+  "lancamento": 2023,
+  "tipo": "Livro",
+  "genero": "Genero do Livro",
+  "editora": "Editora do Livro",
+  "anoEdicao": 2018,
   "numEdicao": 1
 }
 ```
