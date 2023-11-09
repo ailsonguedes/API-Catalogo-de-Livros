@@ -103,7 +103,7 @@ A API estará acessível em http://localhost:8000/.
 
 ```json
 {
-  "id":{id},
+  "id":1,
   "nome": "Nome do Livro",
   "nomeDoAutor": "Nome do Autor",
   "lancamento": 2023,
