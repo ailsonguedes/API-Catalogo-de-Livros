@@ -1,1 +1,1 @@
-web: gunicorn CatalogoLivrosApi:wsgi
+web: gunicorn CatalogoLivrosApi.wsgi
