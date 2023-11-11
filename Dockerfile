@@ -7,6 +7,4 @@ RUN pip install -r requirements.txt
 
 COPY CatalogoLivrosApi/CatalogoLivrosApi .
 
-COPY CatalogoLivrosApi/core .
-
-CMD ["gunicorn", "CatalogoLivrosApi.CatalogoLivrosApi.wsgi"]
+CMD ["gunicorn", "CatalogoLivrosApi.CatalogoLivrosApi.wsgi.py"]
