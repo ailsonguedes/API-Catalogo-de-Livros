@@ -1,6 +1,6 @@
 FROM python:3.11
 
-WORKDIR /
+WORKDIR /API-Catalogo-de-Livros
 
 COPY requirements.txt .
 
