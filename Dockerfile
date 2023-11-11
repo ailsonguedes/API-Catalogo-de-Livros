@@ -1,8 +1,8 @@
-FROM python:3.11.5
+FROM python:3.11
 
 WORKDIR /API-Catalogo-de-Livros
 
-COPY ./API-Catalogo-de-Livros/requirements.txt .
+COPY requirements.txt .
 
 RUN pip install -r requirements.txt
 
