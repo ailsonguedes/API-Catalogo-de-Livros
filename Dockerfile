@@ -10,4 +10,4 @@ COPY env .
 COPY CatalogoLivrosApi/CatalogoLivrosApi .
 COPY CatalogoLivrosApi/core .
 
-CMD ["gunicorn", "wsgi.py"]
+CMD ["gunicorn", "CatalogoLivrosApi.wsgi.py"]
