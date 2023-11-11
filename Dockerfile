@@ -9,4 +9,4 @@ COPY CatalogoLivrosApi/CatalogoLivrosApi .
 
 COPY CatalogoLivrosApi/core .
 
-CMD ["gunicorn", "CatalogoLivrosApi.wsgi"]
+CMD ["gunicorn", "CatalogoLivrosApi.CatalogoLivrosApi.wsgi"]
